@@ -1,0 +1,121 @@
+seed,source,model,params,val_pr_auc
+0,A,LogReg,"{""C"": 1.0}",0.5260383219499405
+0,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.6498758105936404
+0,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.6541939625161817
+0,B,LogReg,"{""C"": 0.01}",0.1627586001224364
+0,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.23975470781926358
+0,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.2651704328452774
+1,A,LogReg,"{""C"": 0.01}",0.42856502226596216
+1,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.4403945268316505
+1,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.45359274627364743
+1,B,LogReg,"{""C"": 0.01}",0.3286730303231844
+1,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.19141482666324516
+1,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.28550682628217716
+2,A,LogReg,"{""C"": 0.1}",0.4254920078706187
+2,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.3729395104392474
+2,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.4004881109542593
+2,B,LogReg,"{""C"": 0.01}",0.3413302748699169
+2,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.33700321019591456
+2,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.35675114771737026
+3,A,LogReg,"{""C"": 10.0}",0.3808040280318
+3,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.46082383174247066
+3,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 31}",0.5175234429348464
+3,B,LogReg,"{""C"": 0.01}",0.26499647383168834
+3,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.2633734552395094
+3,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.290278103031237
+4,A,LogReg,"{""C"": 0.01}",0.1690480610827038
+4,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.342957435189662
+4,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.3578661001825267
+4,B,LogReg,"{""C"": 0.01}",0.39862297188787393
+4,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.5469228318868431
+4,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 31}",0.5318921342889893
+5,A,LogReg,"{""C"": 0.01}",0.3094953941649361
+5,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.23516321320220412
+5,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.2652961714293398
+5,B,LogReg,"{""C"": 0.01}",0.4663827207453013
+5,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 20}",0.557270824553419
+5,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.6113399949092959
+6,A,LogReg,"{""C"": 10.0}",0.44880785027320547
+6,A,RandomForest,"{""max_depth"": 8, ""min_samples_leaf"": 5}",0.3385617959897078
+6,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 31}",0.3274899965382084
+6,B,LogReg,"{""C"": 0.01}",0.4647328924811329
+6,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.5316247440025812
+6,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.5480913119473005
+7,A,LogReg,"{""C"": 0.01}",0.2684226987378124
+7,A,RandomForest,"{""max_depth"": 8, ""min_samples_leaf"": 20}",0.29075527603858226
+7,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.359214569201404
+7,B,LogReg,"{""C"": 0.01}",0.11650565854969953
+7,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.2214553192295672
+7,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.2435485136825041
+8,A,LogReg,"{""C"": 0.01}",0.41604555489834183
+8,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.5129253098942966
+8,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.5080970009809878
+8,B,LogReg,"{""C"": 1.0}",0.20812539733132665
+8,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.25495006062271325
+8,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.26099300896358985
+9,A,LogReg,"{""C"": 0.01}",0.6375264475560766
+9,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.7299981042991485
+9,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 31}",0.666431249982176
+9,B,LogReg,"{""C"": 0.1}",0.5499460913224418
+9,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.3751338099080936
+9,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.4888106069171266
+10,A,LogReg,"{""C"": 0.01}",0.13789940245073704
+10,A,RandomForest,"{""max_depth"": 8, ""min_samples_leaf"": 5}",0.30295623707045705
+10,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 31}",0.33057227724286015
+10,B,LogReg,"{""C"": 0.01}",0.14336135073418058
+10,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.25333512421189114
+10,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.2709190100923193
+11,A,LogReg,"{""C"": 0.01}",0.1356856206740493
+11,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.21436506817960407
+11,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 31}",0.4243125479321386
+11,B,LogReg,"{""C"": 0.01}",0.9243218765196561
+11,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 20}",0.8131908677221135
+11,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.7713986633379316
+12,A,LogReg,"{""C"": 0.01}",0.3647063698184352
+12,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.4998377671650199
+12,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.47027884892633026
+12,B,LogReg,"{""C"": 1.0}",0.5338986125664213
+12,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.5493735546763038
+12,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.6137696210250161
+13,A,LogReg,"{""C"": 0.01}",0.41249486508724226
+13,A,RandomForest,"{""max_depth"": 8, ""min_samples_leaf"": 5}",0.48004486160724347
+13,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.45411605335031247
+13,B,LogReg,"{""C"": 0.01}",0.35300044711978634
+13,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.3206860677705906
+13,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.34869990030688225
+14,A,LogReg,"{""C"": 0.01}",0.7548583839041751
+14,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 20}",0.71687485665837
+14,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.6532350459062489
+14,B,LogReg,"{""C"": 0.01}",0.5017804072478338
+14,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.06521987834132088
+14,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.11052671824912869
+15,A,LogReg,"{""C"": 0.01}",0.0726619822191517
+15,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.18297140228017295
+15,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.2085743043967393
+15,B,LogReg,"{""C"": 0.01}",0.38796199919197194
+15,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.34293305347689373
+15,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.3582398925284585
+16,A,LogReg,"{""C"": 0.01}",0.5324614457895999
+16,A,RandomForest,"{""max_depth"": 16, ""min_samples_leaf"": 5}",0.5660894996233866
+16,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.5340898027950765
+16,B,LogReg,"{""C"": 0.01}",0.2285854776476335
+16,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.3374360919813987
+16,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 31}",0.3343584943058463
+17,A,LogReg,"{""C"": 0.01}",0.3376240583850654
+17,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.48258819561753136
+17,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.4909480412493686
+17,B,LogReg,"{""C"": 0.01}",0.3652900750158164
+17,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.417380205384114
+17,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.40493994423711727
+18,A,LogReg,"{""C"": 1.0}",0.35010620303038387
+18,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.4977982703278804
+18,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.44516907777745385
+18,B,LogReg,"{""C"": 1.0}",0.34190112573567366
+18,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.36724680561596196
+18,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.41409861050121843
+19,A,LogReg,"{""C"": 1.0}",0.21012743968595718
+19,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.4121640763387502
+19,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.4496604139760528
+19,B,LogReg,"{""C"": 0.01}",0.4716667396207241
+19,B,RandomForest,"{""max_depth"": 8, ""min_samples_leaf"": 20}",0.4607932618033546
+19,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 31}",0.47478865552993793

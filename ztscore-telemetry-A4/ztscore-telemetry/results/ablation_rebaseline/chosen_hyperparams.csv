@@ -1,0 +1,31 @@
+seed,source,model,params,val_pr_auc
+0,A,LogReg,"{""C"": 1.0}",0.5260383219499405
+0,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.6498758105936404
+0,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.6541939625161817
+0,B,LogReg,"{""C"": 0.01}",0.1627586001224364
+0,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.23975168321110657
+0,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.2651704328452774
+1,A,LogReg,"{""C"": 0.01}",0.42856502226596216
+1,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.4403945268316505
+1,A,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.45359274627364743
+1,B,LogReg,"{""C"": 0.01}",0.3286730303231844
+1,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.19140436203103858
+1,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15}",0.28550682628217716
+2,A,LogReg,"{""C"": 0.1}",0.4254920078706187
+2,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.3729395104392474
+2,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.4004881109542593
+2,B,LogReg,"{""C"": 0.01}",0.3413302748699169
+2,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.3370111007498213
+2,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.35675114771737026
+3,A,LogReg,"{""C"": 10.0}",0.3808040280318
+3,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.46082383174247066
+3,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 31}",0.5175234429348464
+3,B,LogReg,"{""C"": 0.01}",0.26499647383168834
+3,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.26341448247614524
+3,B,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.290278103031237
+4,A,LogReg,"{""C"": 0.01}",0.1690480610827038
+4,A,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.342957435189662
+4,A,GradBoost,"{""learning_rate"": 0.1, ""max_leaf_nodes"": 15}",0.3578661001825267
+4,B,LogReg,"{""C"": 0.01}",0.39862297188787393
+4,B,RandomForest,"{""max_depth"": null, ""min_samples_leaf"": 5}",0.546913359463209
+4,B,GradBoost,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 31}",0.5318921342889893

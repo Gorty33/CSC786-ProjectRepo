@@ -1,0 +1,5 @@
+Model,Batch µs/decision,Batch ×baseline,Single-call µs (incl. framework overhead)
+Hand-weighted,0.7475205000446294,1.0,8844.605999911437
+Logistic reg.,0.4393859499941754,0.59,2706.504000343557
+Random forest,8.258415099953709,11.05,35811.20050057507
+Gradient boosting,3.4085021499777213,4.56,3388.175000509364

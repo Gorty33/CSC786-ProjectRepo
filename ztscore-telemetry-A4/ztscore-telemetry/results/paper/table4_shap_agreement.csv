@@ -1,0 +1,4 @@
+Model,Spearman ρ,Kendall τ,Top-3 SHAP features
+Logistic reg.,0.532 ± 0.057,0.420 ± 0.025,"transport_class, template_compliance, admin_auth_strength"
+Random forest,0.325 ± 0.139,0.236 ± 0.136,"template_compliance, admin_auth_strength, location_consistency"
+Gradient boosting,0.266 ± 0.138,0.196 ± 0.102,"transport_class, account_events_24h, admin_auth_strength"
